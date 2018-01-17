@@ -13,7 +13,9 @@ This is kinda boring. But if we add just one notion to nothing, we get something
 {Nothing}.
 
 Still boring. But then, we can have this:
+
 {Nothing, {Nothing} }.
+
 Now we're getting somewhere! By nesting this, we get a counting system - the set of Natural numbers. From this we can easily construct rational numbers, and even reals. Then follow complex numbers, quaternions, octonions etc. 
 
 But this is still only math, you say. 
